@@ -26,8 +26,8 @@ Publication:
 Xiong, J., MacCready, P., Leeson, A. Impact of estuarine exchange flow on multi-tracer budgets in the Salish Sea. JGR-Oceans, in revision
 
 
-**Intercomparison of Lagrangian particle tracking software packages in ROMS**
-
+Intercomparison of Lagrangian particle tracking software packages in ROMS
+-
 <img class="col one last" src="{{ site.baseurl }}/images/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%">
 
 Lagrangian particle tracking (LPT) is widely utilized to study transport features in oceanography. Here, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance against ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). 
