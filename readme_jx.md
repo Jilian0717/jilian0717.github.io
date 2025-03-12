@@ -1,4 +1,5 @@
-/_data/navigation.yml: add or remove links in the header
+/_data/navigation.yml: add or remove links in the header <br>
+
 /_pages/:
 - revise cv.md, about.md
 - add research.md
