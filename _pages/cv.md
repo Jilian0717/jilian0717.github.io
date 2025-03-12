@@ -25,7 +25,7 @@ Education
   * Advisor: Jian Shen
 * M.S. in Marine Geology, 2018
   * Nanjing University, Nanjing, China
-  * Advisors: Ya Ping Wang
+  * Advisor: Ya Ping Wang
 * B.S. in Marine Sciences, 2015
   * Nanjing University, Nanjing, China
-  * Advisors: Ya Ping Wang
+  * Advisor: Ya Ping Wang
