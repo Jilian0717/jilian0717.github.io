@@ -28,7 +28,7 @@ author:
   name             : "Jilian Xiong"
   pronouns         : # example: "she/her"  
   bio              : "jxiong7@uw.edu"
-  location         : "Earth"
+  location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
   email            : #"xiongjilian@gmail.com" 
@@ -40,7 +40,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jilian-Xiong-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
