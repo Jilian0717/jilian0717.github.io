@@ -23,7 +23,7 @@ Xiong, J., MacCready, P., Leeson, A. Impact of estuarine exchange flow on multi-
 
 Intercomparison of Lagrangian particle tracking software packages in ROMS
 -
-<img class="col one last" src="{{ site.baseurl }}/images/publication_preview/particle.gif" style="float:right; width: 50%; height: 50%"> Lagrangian particle tracking (LPT) is widely utilized to study transport features in oceanography. Here, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance against ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). 
+<img class="col one last" src="{{ site.baseurl }}/images/publication_preview/particle.gif" style="float:right; width: 40%; height: 40%"> Lagrangian particle tracking (LPT) is widely utilized to study transport features in oceanography. Here, we officially introduced a new offline particle tracking package, [Tracker](https://github.com/parkermac/LO/tree/main/tracker), and evaluated its performance against ROMS online dye and online particle tracking ([floats](https://www.myroms.org/wiki/floats.in)), and three offline particle tracking software packages ([LTRANS](https://northweb.hpl.umces.edu/LTRANS.htm), [OpenDrift](https://opendrift.github.io/), [Particulator](https://github.com/neilbanas/particulator)). 
 
 **Publication**:<br>
 Xiong, J., & MacCready, P. (2024). Intercomparisons of Tracker v1.1 and four other ocean particle-tracking software packages in the Regional Ocean Modeling System. [Geoscientific Model Development, 17(8), 3341-3356](https://gmd.copernicus.org/articles/17/3341/2024/).
@@ -39,7 +39,7 @@ Xiong, J., Shen, J., Wang, Q. (2022). Storm-induced coastward expansion of Marga
 
 Exchange flow and water reflux-efflux in Chesapeake Bay
 -
-<img class="col one last" src="{{ site.baseurl}}/images/publication_preview/TEF_Illustration_v4.jpg" style="float:right; width: 60%; height: 60%">
+<img class="col one last" src="{{ site.baseurl}}/images/publication_preview/TEF_Illustration_v4.jpg" style="float:right; width: 40%; height: 40%">
 Water exchange, featured by bottom inflow and surface outflow in a typical estuary, determines the transport and redistribution of salt, nutrients, pollutants, and suspended sediments and organisms. Based on a long-term (1980–2011) numerical model simulation, this study examines the water exchanges between Chesapeake Bay and the adjacent coastal shelf, and between different regions within the bay. Through an EOF analysis, we found that over 90% of the spatiotemporal variations of water exchange can be explained by freshwater discharge and northwesterly wind. Unlike the outflow that increases linearly with river discharge as commonly expected, the inflow initially increases with river discharge due to enhanced gravitational circulation and then levels, and gradually declines due to overwhelming seaward barotropic current. A locally enhanced water exchange was found in the lower-middle bay, associated with the persistent reflux (quantified using [TEF](https://github.com/parkermac/LO/tree/main/extract/tef2)) of surface outflow due to the shoaling of the main channel (i.e. Rappahannock Shoal near the mouth). 
 
 **Publication**:<br>
@@ -50,7 +50,7 @@ Applications of transport timescales in Chesapeake Bay
 -
 Transport timescale provides 4th-dimensional time information to distill the details of hydrodynamic circulations and acts as a common currency to compare the physical transport time with the timescale for biochemical reactions. A wealth of terminologies related to transport timescales have been used in the literature since the seminal work on diagnostic timescale by Bolin & Rodhe (1973): residence time, partial residence time, flushing time, exposure time, transit time, water age, partial age, influence time, renewal time, etc. 
 With valid definitions, the transport timescale can be tailored to serve various study purposes. For example:
-<img class="col one last" src="{{ site.baseurl }}/images/publication_preview/definition.png" style="float:right; width: 60%; height: 60%">
+<img class="col one last" src="{{ site.baseurl }}/images/publication_preview/definition.png" style="float:right; width: 50%; height: 50%">
 - by adjusting the boundary where the material (or water parcel) exits for the first time, residence time in different subdomains can be quantified.
 - by counting the subsequent material (or water) re-entering, the transport timescale can be termed as “exposure time”, which quantifies the total time for nutrients or pollutants to stay in an area of interest.
 - by comparing residence time and exposure time, a retention coefficient can be calculated to quantify the material retention efficiency.
