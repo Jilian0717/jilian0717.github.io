@@ -13,7 +13,11 @@ redirect_from:
 Work experience
 ======
 -----
-* School of Oceanography, University of Washingyon (Sep. 2022 until now)
+* Woods Hole Oceanographic Institution (May 2025 until now)
+  * Postdoc Investigator
+  * Advisors: Ke Chen, Gordon Zhang, Gregory Britten
+    
+* School of Oceanography, University of Washingyon (Sep. 2022 to May 2025)
   * Postdoc Scholar
   * Advisors: Parker MacCready
     
